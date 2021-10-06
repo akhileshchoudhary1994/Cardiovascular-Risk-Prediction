@@ -36,6 +36,7 @@ Predict variable (desired target)
 # Results:
 
 |Model Name|Recall|Accuracy|F1-score|
+
 |Logistic Regression|0.68|0.67|0.38|
 |KNN|0.63|0.49|0.29|
 |SVM|0.64|0.74|0.38|
